@@ -12,7 +12,7 @@ bool CheckIfPrime(const int &amIPrime)
 	return true;
 }
 
-string FindPrimeFactors(int const &findMyPrimeFactors) 
+string FindPrimeFactors(const int &findMyPrimeFactors) 
 {
 	int tempFindMyPrimeFactors = findMyPrimeFactors;
 	string primeFactors;
